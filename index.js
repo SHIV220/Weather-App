@@ -14,7 +14,7 @@ let city = document.getElementById("city");
 
     if(jsonData.cod == 400){
         alert("Please Enter Location")
-        image.src="error1.png";
+        image.src="https://github.com/SHIV220/Weather-App/blob/main/error1.png?raw=true";
         city.innerHTML="";
         temp.innerHTML="";
         type.innerHTML="";
