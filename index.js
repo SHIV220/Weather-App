@@ -33,11 +33,11 @@ let city = document.getElementById("city");
     if(type.innerHTML == "Clouds"){
         image.src="https://raw.githubusercontent.com/SHIV220/Weather-App/4bac83ac1aebc6b42a3504d96badb26e818e95d2/cloud.svg"
     }else if(type.innerHTML == "Clear"){
-        image.src="https://raw.githubusercontent.com/SHIV220/Weather-App/4bac83ac1aebc6b42a3504d96badb26e818e95d2/clear.svg"
+        image.src="https://raw.githubusercontent.com/SHIV220/Weather-App/a8c690c54a239673f6197f3f0adceb6c1f071717/clear.svg"
     }else if(type.innerHTML == "Rain"){
-        image.src="https://raw.githubusercontent.com/SHIV220/Weather-App/4bac83ac1aebc6b42a3504d96badb26e818e95d2/rain.svg"
+        image.src="https://raw.githubusercontent.com/SHIV220/Weather-App/a8c690c54a239673f6197f3f0adceb6c1f071717/rain.svg"
     }else if(type.innerHTML == "Snow"){
-        image.src="https://raw.githubusercontent.com/SHIV220/Weather-App/4bac83ac1aebc6b42a3504d96badb26e818e95d2/snow.svg"
+        image.src="https://raw.githubusercontent.com/SHIV220/Weather-App/a8c690c54a239673f6197f3f0adceb6c1f071717/snow.svg"
     }else if(type.innerHTML == "Haze"){
         image.src="https://raw.githubusercontent.com/SHIV220/Weather-App/4bac83ac1aebc6b42a3504d96badb26e818e95d2/haze.svg"
     }else if(type.innerHTML == "Strom"){
