@@ -21,7 +21,7 @@ let city = document.getElementById("city");
     }
     if(jsonData.cod == 404){
         alert("Please Enter Write Location")
-        image.src="error2.png";
+        image.src="https://github.com/SHIV220/Weather-App/blob/main/error2.png?raw=true";
         city.innerHTML=search;
         temp.innerHTML="";
         type.innerHTML="";
